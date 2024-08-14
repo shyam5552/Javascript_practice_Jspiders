@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>inter js conslole methods</h1>
+    <script>
+        console.log("hello world");
+        let a="hello";
+        console.log(typeof a);
+        console.log(typeof console);//because of this we are callign js as object based lang.
+        console.log(typeof window);// it is also a object and it has some methods.
+        //console.log(log);//it goves the error because of log is identifier means method name. we didn't declared.
+        console.log(typeof console.log);// it gives type as function.
+        
+        console.log("js");
+        console.warn("this is warning message");//it displayed with warning symbol.
+        console.error("this is error mesage");// it is displayes the error with error-sybol loke cross symbol
+        let person={
+            name:"shyam",
+            id:"s180222"
+           
+        }
+        console.log(typeof person);
+        console.log(person);
+        console.table(person);
+        console.group("browser");// it is used to display with drop down like select
+        console.log("chrome");
+        console.log("safari");
+        console.log("firefox");
+        console.groupEnd();
+        console.dir(window);
+        
+    </script>
+</body>
+</html>
