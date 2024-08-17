@@ -22,17 +22,3 @@ console.log(s.startsWith("j"));
 console.log(s.endsWith("t"));
 console.log(str.replace("ja","ba"));
 console.log(s.includes("t"));
-
-
-
-
-
-
-
-
-
-
-
-
-
-
