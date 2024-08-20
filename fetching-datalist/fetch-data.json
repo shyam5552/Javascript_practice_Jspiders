@@ -1,0 +1,46 @@
+[
+
+    {
+        "item_name":"apple",
+        "catagery":"fruit",
+        "image_url":"https://cdn.pixabay.com/photo/2016/11/18/13/47/apple-1834639_1280.jpg"
+
+    },
+    {
+        "item_name":"orange",
+        "catagery":"fruit",
+        "image_url":"https://www.shutterstock.com/image-photo/orang-fruit-isolate-orange-leaves-260nw-543103645.jpg"
+
+    },
+    {
+        "item_name":"melon",
+        "catagery":"fruit",
+        "image_url":"https://thumbs.dreamstime.com/b/single-watermelon-fruit-close-up-raw-melon-white-background-qualitative-vector-illustration-agriculture-fruits-cooking-87739645.jpg"
+
+    },
+    {
+        "item_name":"coconut",
+        "catagery":"fruit",
+        "image_url":"https://png.pngtree.com/png-vector/20231123/ourmid/pngtree-single-fruit-coconut-png-image_10706663.png"
+
+    },
+    {
+        "item_name":"apple laptop",
+        "catagery":"computer",
+        "image_url":"https://www.herofincorp.com/kcfinder/upload/images/Apple.jpg"
+
+    },
+    {
+        "item_name":"dell",
+        "catagery":"computer",
+        "image_url":"https://khatabook-assets.s3.amazonaws.com/media/post/blHP32e5Qyzpi_NXf-ltdDmPPkeqItTg9WGtD3m6JL9d0__P7gLer19ipAFI1dYMMm_VU7B71oDmCW-v3WglgDEZV9u7t35pOpcJejjqGQh8MYbWM3122yHWVFaPcapdDPcQUQnoWPLRBdStcZcAgo4.webp"
+
+    },
+    {
+        "item_name":"asus",
+        "catagery":"computer",
+        "image_url":"https://static.javatpoint.com/top10-technologies/images/top-10-laptop-brands5.jpg"
+
+    }
+
+]
